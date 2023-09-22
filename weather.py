@@ -1,4 +1,4 @@
-#weather Forecasthing
+#Forecasting the Weather 
 import os
 import pytz
 import pyowm
